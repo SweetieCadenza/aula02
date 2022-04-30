@@ -1,0 +1,28 @@
+
+
+
+.red {
+  width: 10rem;
+  height: 10rem;
+  background: crimson;
+}
+
+.green {
+  width: 20rem;
+  height: 10rem;
+  background: darkgreen;
+}
+
+.blue {
+ width: 10rem;
+ height: 10rem;
+ background: royalblue;
+ border-radius: 50%;
+}
+
+div {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

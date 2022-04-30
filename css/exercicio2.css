@@ -1,0 +1,25 @@
+.violet {
+ width: 5rem;
+ height: 5rem;
+ background: violet;
+}
+
+.pink {
+  width: 30rem;
+  height: 20rem;
+  background: pink;
+}
+
+.yellow {
+  width: 20rem;
+  height: 20rem;
+  background: yellow;
+  border-radius: 50%;
+}
+
+div {
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
